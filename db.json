@@ -1,16 +1,12 @@
 {
    "strains":[
       {
-         "id":1,
-         "name":"Juniper"
+         "in_stock":true,
+         "name":"Juniper, Earth, Mercury"
       },
       {
-         "id":2,
+         "in_stock":false,
          "name":"Aurora Borealis"
-      },
-      {
-         "id":3,
-         "name":"Postman"
       }
    ]
 }
