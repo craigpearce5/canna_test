@@ -1,16 +1,16 @@
 {
-   "posts":[
+   "strains":[
       {
          "id":1,
-         "title":"Post 1"
+         "name":"Juniper"
       },
       {
          "id":2,
-         "title":"Post 2"
+         "name":"Aurora Borealis"
       },
       {
          "id":3,
-         "title":"Post 3"
+         "name":"Postman"
       }
    ],
    "comments":[
