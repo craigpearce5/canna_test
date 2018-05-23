@@ -3,10 +3,6 @@
       {
          "in_stock":true,
          "name":"Juniper, Earth, Mercury"
-      },
-      {
-         "in_stock":false,
-         "name":"Aurora Borealis"
       }
    ]
 }
